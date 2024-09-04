@@ -1,6 +1,5 @@
-#Бєлік Максим КН-32/1
-
 import re
+
 #Бєлік Максим КН-32/1
 def student1_obrobka(text): #функція обробки від першого студента
     if not text.isalpha():
